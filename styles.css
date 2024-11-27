@@ -92,7 +92,7 @@ header{
 }
 
 .home-content{
-    max-width: 800px;
+    max-width: 500px;
 }
 .home-content h3{
     font-size: 42px;
@@ -114,7 +114,7 @@ header{
     text-align: center;
 }
 .btn-box{
-    width: 345px;
+    width: 500px;
     display: flex;
     gap: 2em;
     text-align: center;

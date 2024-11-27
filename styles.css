@@ -165,6 +165,8 @@ header{
 .img-box img{
     width: 400px;
     border-radius: 50%;
+    box-shadow: #191970;
+    border-radius: 5px;
 }
 ::-webkit-scrollbar{
     width: 5px;

@@ -168,6 +168,9 @@ header{
     box-shadow: #191970;
     border-radius: 5px;
 }
+.img-box img:hover{
+    color: rgba(255, 255, 255, 0.196);
+}
 ::-webkit-scrollbar{
     width: 5px;
 }
